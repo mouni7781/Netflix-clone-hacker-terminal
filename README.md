@@ -4,13 +4,16 @@ A responsive Netflix front-end clone with a creative hacker-style terminal anima
 ---
 
 ## 🚀 Live Demo
-https://github.com/user-attachments/assets/0f462ab0-2b37-4e8b-8904-532f2c72cba9
+
+https://github.com/user-attachments/assets/a8965e79-c3fe-4cd6-8e76-38482cca78a4
+
 
 ---
 
 ## 📸 Preview
-<img width="1306" height="754" alt="image" src="https://github.com/user-attachments/assets/c935ffef-4af0-40c0-8d57-4ad6c12a7c8b" />  
-<img width="1696" height="868" alt="image" src="https://github.com/user-attachments/assets/f0b93437-7d80-4673-8a04-1a6a6dd8b4d6" />
+<img width="1306" height="754" alt="Screenshot 2025-07-29 140255" src="https://github.com/user-attachments/assets/f838aa76-4aae-4d6b-8da5-118e18ccceb1" />
+
+<img width="1696" height="868" alt="Screenshot 2025-07-29 140337" src="https://github.com/user-attachments/assets/3e669938-cf18-4fd5-a819-54e4f6e2d752" />
 
 ---
 
