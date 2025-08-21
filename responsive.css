@@ -24,6 +24,15 @@
         width: 148px;
         height: 43px;
     }
+    .btn-red{
+        width: 18vw;
+    }
+
+}
+@media screen and (max-width:1185px) {
+    .btn-red{
+        font-size: 18px;
+    }
 
 }
 
@@ -36,12 +45,27 @@
         width: 100px;
         height: 35px;
     }
+     .btn-red{
+        width: 20vw;
+        font-size: 18px;
+    }
 }
 
+@media screen and (max-width:888px) {
+
+    .btn-red{
+        width: 20vw;
+        font-size: 16px;
+    }
+}
 @media screen and (max-width:750px) {
 
     .section-c {
         height: 1250px;
+    }
+    .btn-red{
+        width: 26vw;
+        font-size: 16px;
     }
 }
 
@@ -59,4 +83,9 @@
     .main {
         height: 880px;
     }
+    .btn-red{
+        width: 30vw;
+        font-size: 14px;
+    }
 }
+
